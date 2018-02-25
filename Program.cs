@@ -11,6 +11,7 @@ namespace TypeConversions
         static void Main(string[] args)
         {
             Console.WriteLine("********* Fun with type conversions **********");
+            //добавить две переменные типа short и вывести результат.
         }
     }
 }
